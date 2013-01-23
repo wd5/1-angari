@@ -1,0 +1,353 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"cure",
+				"current_weight"
+			],
+			[
+				"curren",
+				"current_amount"
+			],
+			[
+				"products_by_",
+				"products_by_name"
+			],
+			[
+				"p",
+				"product"
+			],
+			[
+				"pa",
+				"payment_method"
+			],
+			[
+				"render",
+				"render_404"
+			],
+			[
+				"pr",
+				"products_tags"
+			],
+			[
+				"se",
+				"secondname"
+			],
+			[
+				"sele",
+				"selected_bill_address_id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"Package Cont",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/codeworks/whitescape/knigipodarki/app/models/calculator/zones_and_weight.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/products/index.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/checkout/_delivery.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/gateway/robokassa/show.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/checkout/_confirm.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/models/app_configuration.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/home/_banners.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/checkout/_summary.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/orders/show.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/shared/_products.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/products/show.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/shared/_tabs.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/errors/404.html",
+		"/D/codeworks/whitescape/knigipodarki/app/views/checkout/_cart.html",
+		"/D/codeworks/whitescape/knigipodarki/app/views/checkout/_checkout_breadcrumbs.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/users_controller.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/products_controller.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/orders_controller_decorator.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/models/product_decorator.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/products/_product_features.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/users/show.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/addresses_controller.rb",
+		"/D/codeworks/whitescape/knigipodarki/config/routes.rb",
+		"/D/codeworks/whitescape/knigipodarki/public/404.html",
+		"/D/codeworks/whitescape/knigipodarki/app/views/shared/_cart_items.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/db/migrate/20121124114804_add_is_sale_item_to_line_item.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/models/order_decorator.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/orders/show.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/public/javascripts/js/func.js",
+		"/D/codeworks/whitescape/knigipodarki/app/views/order_mailer/confirm.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/checkout_controller_decorator.rb",
+		"/D/codeworks/whitescape/knigipodarki/db/migrate/20121122205633_add_payment_method_name_to_order.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/models/taxon_decorator.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/taxons/_form.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/admin/taxons_controller.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/addresses/_address_form.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/taxons_controller.rb",
+		"/D/codeworks/whitescape/knigipodarki/public/stylesheets/sass/ie.scss",
+		"/E/Torrentloads/Adventure Time (season 3) [HD]/S03E07a - From Bad to Worse.ass",
+		"/E/Torrentloads/Adventure Time (season 3) [HD]/S03E08b - Jake vs. Me-Mow.ass",
+		"/E/Torrentloads/Adventure Time (season 3) [HD]/S03E06b - The Creeps.ass",
+		"/D/codeworks/whitescape/knigipodarki/db/migrate/20121122212048_add_payment_method_name_to_order.rb",
+		"/D/codeworks/whitescape/knigipodarki/db/migrate/20121122211954_remove_payment_method_name_from_products.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/pages/index.html",
+		"/D/codeworks/whitescape/knigipodarki/app/views/shared/_admin_head.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/lib/spree_site.rb",
+		"/D/codeworks/whitescape/knigipodarki/db/schema.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/products/_form.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/shared/_product_tabs.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/shared/_product_sub_menu.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/configurations/index.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/taxons/selected.html.erb",
+		"/D/codeworks/whitescape/hiazma/app/views/admin/articles/_form_edit.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/shared/_configuration_menu.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/lib/spree_yandex_market_hooks.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/checkout/_payment.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/checkout_controller.rb",
+		"/D/codeworks/whitescape/knigipodarki/README.md",
+		"/D/codeworks/whitescape/knigipodarki/app/views/checkout/_address.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/gateway/robokassa_controller_decorator.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/shared/_navigation.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/admin/products_controller.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/products/index.html",
+		"/D/codeworks/whitescape/knigipodarki/app/views/home/index.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/home_controller.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/models/tag.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/checkout/edit.html.erb",
+		"/C/Users/grigl_000/Documents/production.log",
+		"/D/codeworks/whitescape/knigipodarki/public/stylesheets/style.css",
+		"/D/codeworks/whitescape/knigipodarki/lib/tasks/sync_orders.rake",
+		"/D/codeworks/whitescape/knigipodarki/xml/store.xml",
+		"/D/codeworks/whitescape/knigipodarki/lib/tasks/sync_goods.rake",
+		"/D/codeworks/whitescape/knigipodarki/app/helpers/application_helper.rb",
+		"/D/codeworks/whitescape/knigipodarki/db/migrate/20121113151444_add_is_published_to_products.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/layouts/spree_application.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/mailers/order_mailer.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/user_registrations_mailer/confirm.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/user_mailer/reset_password.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/shared/_cart_quantity.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/shared/_cart_panel.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/orders/reload_cart.js.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/mailers/user_mailer.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/orders_controller.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/mailers/user_registrations_mailer.rb",
+		"/D/codeworks/whitescape/knigipodarki/config/locales/ru.yml",
+		"/D/codeworks/whitescape/knigipodarki/app/views/shared/_login.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/checkout/registration.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/layouts/_site_footer.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/user_passwords/new.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/user_passwords/edit.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/user_passwords_controller.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/user_registrations/show_registration_errors.js.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/user_registrations/new.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/user_passwords/show_restore_password_errors.js.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/user_passwords/show_restore_message.js.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/shared/_restore_password_form.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/models/address_decorator.rb",
+		"/D/codeworks/whitescape/knigipodarki/config/locales/devise.ru.yml",
+		"/D/codeworks/whitescape/knigipodarki/app/views/user_sessions/show_login_errors.js.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/user_registrations_controller.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/users/edit.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/addresses/edit.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/layouts/_site_header.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/config/environments/production.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/general_settings/edit.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/general_settings/show.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/addresses/new.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/shared/_cart.html.erb",
+		"/C/Users/grigl_000/Desktop/New Text Document.html",
+		"/D/codeworks/whitescape/knigipodarki/app/views/taxons/show.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/static_content/show.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/pages/_form.html.erb",
+		"/C/Users/grigl_000/.ssh/id_rsa.pub",
+		"/C/Users/grigl_000/.ssh/hgdev_rsa.pub",
+		"/C/Users/grigl_000/.ssh/github_rsa.pub",
+		"/D/codeworks/whitescape/knigipodarki/_markup/about.html",
+		"/D/codeworks/whitescape/knigipodarki/app/views/user_mailer/reset_password_instructions.text.erb",
+		"/D/codeworks/whitescape/knigipodarki/db/migrate/20121017221244_add_some_fields_to_static_pages.rb",
+		"/D/codeworks/whitescape/knigipodarki/_markup/letters/letter_purchase.html",
+		"/D/codeworks/whitescape/knigipodarki/app/views/shared/_products_sorting.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/db/migrate/20121017083444_add_material_to_product.rb",
+		"/D/codeworks/whitescape/knigipodarki/_markup/index_cart.html",
+		"/D/codeworks/whitescape/knigipodarki/_markup/index.html",
+		"/D/codeworks/whitescape/knigipodarki/app/views/user_registration_mailer/confirm.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/confirm_email.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/shared/_products_material.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/.gitignore",
+		"/D/codeworks/whitescape/hiazma/README.md"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"weight",
+			"0",
+			"number_to_currency",
+			";\n",
+			"bill",
+			"disable",
+			"count_on_hand",
+			"count",
+			"end",
+			"products",
+			"payment",
+			"all_products",
+			"render",
+			"не",
+			" %>",
+			"static_pa",
+			"%>\n",
+			"products",
+			"tags",
+			">\n",
+			"\")\n",
+			"address",
+			"taxons",
+			"registration",
+			"header",
+			"by_popularity",
+			"popular",
+			")\n",
+			"%>\">",
+			"\").",
+			"controls",
+			"span",
+			".plus",
+			".minus",
+			"minus",
+			"debug params",
+			"%></",
+			"current_page",
+			"%>\n",
+			"recommended"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 96.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 419.0,
+	"status_bar_visible": true
+}
