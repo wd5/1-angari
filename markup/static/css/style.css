@@ -24,7 +24,7 @@ body {
 
 /* shared */
 .calculate-button {
-    display: block;
+    display: inline-block;
     width: 202px;
     height: 33px;
     padding: 2px 4px 6px 3px;
@@ -35,7 +35,7 @@ body {
 .header {
     height: 93px;
     margin: 0 auto;
-    background: url(../img/header-center-bg.png) no-repeat;
+    background: url(../images/header-center-bg.png) no-repeat;
 }
 .header:before {
     content: '';
@@ -44,7 +44,7 @@ body {
     width: 552px;
     height: 93px;
     margin-left: -552px;
-    background: url(../img/header-left-bg.png);
+    background: url(../images/header-left-bg.png);
 
 }
 .header:after {
@@ -55,7 +55,7 @@ body {
     width: 480px;
     height: 93px;
     margin-left: 960px;
-    background: url(../img/header-right-bg.png);
+    background: url(../images/header-right-bg.png);
 }
 .header-inner {
     position: relative;
@@ -109,7 +109,7 @@ body {
     left: 67px;
     top: 83px;
     z-index: 2;
-    background: url(../img/header-calculate-button.png)
+    background: url(../images/header-calculate-button.png)
 }
 /*end of header */
 
@@ -136,7 +136,7 @@ body {
 .slider-control {
     position: absolute;
     top: 145px;
-    background: url(../img/slider-buttons.png);
+    background: url(../images/slider-buttons.png);
     width: 65px;
     height: 65px;
     cursor: pointer;
@@ -149,16 +149,43 @@ body {
     left: 630px;
     background-position: -88px 0;
 }
-.main-right-column {
-    
+.main-text-left-column {
+    width: 33%;
+}
+.main-text-right-column {
+    width: 60%;
+    padding: 0 20px 0 0;
+}
+.usecases {
+    width:719px;
+}
+.usecase-image {
+    margin: 0 -3px -3px 0;
+}
+.usecases-header {
+    position: relative;
+    display: inline-block;
+    margin: 0 -4px 0 0;
+}
+.usecases-header-inner {
+    background: url(../images/usecase-category-bg.png);
+    position: absolute;
+    top: -107px;
+    left: -60px;
+    width: 118px;
+    height: 130px;
+    text-align: center;
+}
+.usecase-category-img {
+    margin: 14px 0 0 0;
 }
 .main-right-column-inner {
-    width: 187px;
+    width: 165px;
     position: relative;    
     border: solid #f0e799 3px;
     border-radius: 13px;
     padding: 0 0 0 36px;
-    margin: 44px 0 44px 0;
+    margin: 44px 0 44px 21px;
 }
 .main-right-column-inner li {
     position: relative;
@@ -177,5 +204,12 @@ body {
     height: 70px;
     width: 100%;
     background: #e6e6e6;
+}
+.footer p {
+    display: inline-block;
+    width: 200px;
+}
+.footer .calculate-button {
+    background: url(../images/header-calculate-button.png)
 }
 /* end of footer */
