@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"ba",
+				"background"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"use",
+				"usecases-header"
+			],
+			[
 				"in",
 				"inline-block"
 			],
@@ -192,10 +208,6 @@
 				"TemplateView"
 			],
 			[
-				"ba",
-				"background-color"
-			],
-			[
 				"tem",
 				"template_name"
 			],
@@ -207,6 +219,38 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "angari.sublime-project",
+			"settings":
+			{
+				"buffer_size": 68,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "markup/index.html",
+			"settings":
+			{
+				"buffer_size": 10508,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "markup/static/css/style.css",
+			"settings":
+			{
+				"buffer_size": 3829,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 40,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -236,6 +280,7 @@
 	},
 	"file_history":
 	[
+		"/home/grigl/Works/angari/markup/media/css/style.css",
 		"/home/grigl/Works/streptatest/apps/reviews/models.py",
 		"/home/grigl/Works/streptatest/apps/messages/models.py",
 		"/home/grigl/Works/streptatest/apps/messages/views.py",
@@ -352,6 +397,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"right",
+			"slider",
 			"up_l",
 			"up_l\nup_l",
 			"up_l",
@@ -427,8 +474,117 @@
 	"groups":
 	[
 		{
+			"selected": 3,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "angari.sublime-project",
+					"settings":
+					{
+						"buffer_size": 68,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "markup/index.html",
+					"settings":
+					{
+						"buffer_size": 10508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10294,
+								10294
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3294.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "markup/static/css/style.css",
+					"settings":
+					{
+						"buffer_size": 3829,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3718,
+								3718
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3294.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": ".gitignore",
+					"settings":
+					{
+						"buffer_size": 40,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
