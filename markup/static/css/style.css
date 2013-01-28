@@ -233,6 +233,10 @@ a:visited {
 }
 .usecases {
     width:719px;
+    margin: 44px 0 65px 0;
+}
+.usecases-gallery {
+    margin: 40px 0 0 0;
 }
 .usecase-image {
     margin: 0 -3px -3px 0;
@@ -242,14 +246,20 @@ a:visited {
     display: inline-block;
     margin: 0 -4px 0 0;
 }
+.usecases-header p {
+    font-size: 12px;
+    font-weight: bold;
+    color: #b4b7a1;
+}
 .usecases-header-inner {
     background: url(../images/usecase-category-bg.png);
     position: absolute;
     top: -107px;
     left: -60px;
-    width: 118px;
+    width: 98px;
     height: 130px;
     text-align: center;
+    padding: 0 10px 0 10px;
 }
 .usecase-category-img {
     margin: 14px 0 0 0;
@@ -300,12 +310,57 @@ a:visited {
     height: 70px;
     width: 100%;
     background: #e6e6e6;
+    font-size: 14px;
+}
+.footer-inner {
+    border-top: solid #d6d6d6 4px;
+    position: relative;
+    top: -2px;
 }
 .footer p {
     display: inline-block;
-    width: 200px;
+    margin-top: 17px;
 }
 .footer .calculate-button {
-    background: url(../images/header-calculate-button.png)
+    background: url(../images/footer-calculate-button.png);
+    vertical-align: top;
+    font-weight: bold;
+    margin-left: 50px; 
+}
+.footer .calculate-button a {
+    color: white;
+    text-decoration: none;
+}
+.copyright {
+    width: 100px;
+    margin-left: 10px;
+}
+.footer-contacts {
+    width: 200px;
+    position: relative;
+    margin-left: 145px;
+}
+.footer-contacts:before {
+    content:'';
+    display: inline-block;
+    position: absolute;
+    left: -15px;
+    width: 11px;
+    height: 15px;
+    background: url(../images/address-icon.png)
+}
+.octoberweb {
+    width: 150px;
+    position:relative;
+    left: 115px;
+}
+.octoberweb:before {
+    content:'';
+    display: inline-block;
+    position: absolute;
+    left: -37px;
+    width: 31px;
+    height: 31px;
+    background: url(../images/octoberweb-logo.png)
 }
 /* end of footer */
