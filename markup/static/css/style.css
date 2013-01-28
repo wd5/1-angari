@@ -1,0 +1,311 @@
+/* fonts */
+@font-face {font-family: 'PT Sans'; 
+    src: url('../fonts/PTS55F_W.eot'); 
+    src:
+        local('PT Sans'),
+        url('../fonts/PTS55F_W.woff') format('woff'),
+        url('../fonts/PTS55F_W.ttf') format('truetype'),
+        url('../fonts/PTS55F_W.svg#PTSans-Regular') format('svg');}
+
+@font-face {font-family: 'PT Sans'; 
+    font-style: italic;
+    src: url('../fonts/PTS56F_W.eot'); 
+    src: local('PT Sans Italic'),
+        url('../fonts/PTS56F_W.woff') format('woff'),
+        url('../fonts/PTS56F_W.ttf') format('truetype'),
+        url('../fonts/PTS56F_W.svg#PTSans-Italic') format('svg');}
+
+@font-face {font-family: 'PT Sans';
+    src: url('../fonts/PTS75F_W.eot');
+    font-style: normal;
+    font-weight: bold; 
+    src: local('PT Sans Bold'),
+        url('../fonts/PTS75F_W.woff') format('woff'),
+        url('../fonts/PTS75F_W.ttf') format('truetype'),
+        url('../fonts/PTS75F_W.svg#PTSans-Bold') format('svg');}
+/* end of fonts */
+
+/* main styles */
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    margin: 0 0 70px; /* bottom = footer height */
+    overflow-x: hidden;
+    background: #f5f4f5;
+    font: 15px/18px 'PT Sans', Arial, Helvetica, sans-serif;
+}
+.header, .main, .footer-inner {
+    width: 960px;
+    margin: 0 auto;
+}
+a,
+a:visited {
+    color: #417db4;
+}
+.clear {
+    clear:both;
+}
+.column {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: -4px;
+}
+/* end of mainstyles */
+
+/* shared */
+.calculate-button {
+    display: inline-block;
+    width: 194px;
+    height: 31px;
+    padding: 8px 0 0 16px;
+    color: white !important;
+    font-size: 18px;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px #000;
+}
+/* end of shared */
+
+/* header */
+.header {
+    height: 93px;
+    margin: 0 auto;
+    background: url(../images/header-center-bg.png) no-repeat;
+    font-weight: bold;
+    font-size: 18px;
+}
+.header:before {
+    content: '';
+    position: absolute;
+    display: block;
+    width: 552px;
+    height: 93px;
+    margin-left: -552px;
+    background: url(../images/header-left-bg.png);
+
+}
+.header:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    display: block;
+    width: 480px;
+    height: 93px;
+    margin-left: 960px;
+    background: url(../images/header-right-bg.png);
+}
+.header-inner {
+    position: relative;
+    height: 91px;
+    border-bottom: solid #d6d6d6 4px;
+}
+.header-bottom-border {
+    position: absolute;
+    left: 0;
+    top: 91px;
+    width: 100%;
+    height: 4px;
+    background: gray;
+}
+.header-nav li {
+    display: inline-block;
+    margin: 0 20px 0 0;
+}
+.header-nav li:last-child {
+    margin: 0;
+}
+
+.header-logo-box {
+    display: inline-block;
+    width: 245px;
+    margin: 22px 0 0 0;
+}
+
+.header-main-nav-box {
+    display: inline-block;
+    width: 380px;
+    margin: 9px 0 0 0;
+    vertical-align: top;
+}
+.header-main-nav-box .header-nav {
+    margin: 12px 0 0 0;
+}
+.header-main-nav-caption {
+    display: inline-block;
+    height: 18px;
+    margin: 0 0 0 20px;
+    padding: 8px 12px;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    background: #f0e799;
+    font-size: 20px;
+    color: #837710;
+}
+
+.header-contacts-box {
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    margin: 0 4px 0 0;
+    width: 320px;
+    float: right;
+}
+.header-contacts-box .header-nav {
+    margin: 21px -4px 0 0;
+    float: right;
+}
+.header-phone {
+    float: right;
+    margin: 17px 4px 0 0;
+    font-size: 30px;
+    font-weight: bold;
+}
+.header-phone .phone-code {
+    vertical-align: top;
+    font-size: 16px;
+    color: #9d9d9d;
+}
+.header-contacts-box .calculate-button {
+    position: absolute;
+    right: 0;
+    top: 83px;
+    z-index: 2;
+    margin: 0 -9px 0  0;
+    background: url(../images/header-calculate-button.png)
+}
+/*end of header */
+
+/* main */
+.main-left-column {
+    width: 734px;
+}
+.slider {
+    position: relative;
+}
+.slider-item-text {
+    position: absolute;
+    bottom: 15px;
+    right: 0;
+}
+.slider-item-text h4,
+.slider-item-text a {
+    margin-right: 50px;
+    background: #f0e799;
+}
+.slider-item-text a {
+    padding: 0 15px 7px 15px;
+    font-size: 24px;
+}
+.slider-item-text h4 {
+    padding: 15px;
+    color: #837710;
+    font-size: 20px;
+    font-weight: bold;
+}
+.slider-control {
+    position: absolute;
+    top: 145px;
+    background: url(../images/slider-buttons.png);
+    width: 65px;
+    height: 65px;
+    cursor: pointer;
+}
+.slider-control-left {
+    left: -25px;
+    background-position: 0 0;
+}
+.slider-control-right {
+    left: 630px;
+    background-position: -88px 0;
+}
+.main-text-left-column {
+    width: 33%;
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: bold;
+}
+.main-text-right-column {
+    width: 60%;
+    padding: 0 20px 0 0;
+    font-size: 16px;
+    line-height: 24px;
+}
+.usecases {
+    width:719px;
+}
+.usecase-image {
+    margin: 0 -3px -3px 0;
+}
+.usecases-header {
+    position: relative;
+    display: inline-block;
+    margin: 0 -4px 0 0;
+}
+.usecases-header-inner {
+    background: url(../images/usecase-category-bg.png);
+    position: absolute;
+    top: -107px;
+    left: -60px;
+    width: 118px;
+    height: 130px;
+    text-align: center;
+}
+.usecase-category-img {
+    margin: 14px 0 0 0;
+}
+.main-right-column {
+    font-size: 18px;
+}
+.main-right-column-inner {
+    width: 155px;
+    position: relative;    
+    border: solid #f0e799 3px;
+    border-radius: 13px;
+    padding: 0 10px 30px 36px;
+    margin: 44px 0 44px 21px;
+}
+.main-right-column li {
+    position: relative;
+    margin: 25px 0 0 0;
+}
+.main-right-column h3 {
+    font-weight: bold;
+}
+.main-right-column p {
+    margin: 15px 0 0 0;
+    font-size: 14px;
+    line-height: 18px;
+}
+.advanatages-header {
+    margin: 20px 0 0 0;
+    color: #aaae93;
+}
+.advantage-icon {
+    position: absolute;
+    left: -62px;
+    top: -18px;
+}
+.technology-link {
+    display: inline-block;
+    margin: 20px 0 0 0;
+}
+/* end of main*/
+
+/* footer */
+.footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 70px;
+    width: 100%;
+    background: #e6e6e6;
+}
+.footer p {
+    display: inline-block;
+    width: 200px;
+}
+.footer .calculate-button {
+    background: url(../images/header-calculate-button.png)
+}
+/* end of footer */
