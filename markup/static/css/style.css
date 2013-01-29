@@ -203,7 +203,7 @@ a:visited {
     font-size: 20px;
     font-weight: bold;
 }
-.slider-control {
+.bx-prev, .bx-next {
     position: absolute;
     top: 145px;
     background: url(../images/slider-buttons.png);
@@ -211,13 +211,16 @@ a:visited {
     height: 65px;
     cursor: pointer;
 }
-.slider-control-left {
-    left: -25px;
+.bx-prev {
+    left: -35px;
     background-position: 0 0;
 }
-.slider-control-right {
-    left: 630px;
+.bx-next {
+    left: 640px;
     background-position: -88px 0;
+}
+.slider-item-text a{
+    font-weight: bold;
 }
 .main-text-left-column {
     width: 33%;
@@ -246,6 +249,13 @@ a:visited {
     display: inline-block;
     margin: 0 -4px 0 0;
 }
+.usecases-header .usecases-header-text {
+    height: 60px;
+    position: relative;
+}
+.usecase-category-img {
+    margin-top: 18px;
+}
 .usecases-header p {
     font-size: 12px;
     font-weight: bold;
@@ -260,9 +270,6 @@ a:visited {
     height: 130px;
     text-align: center;
     padding: 0 10px 0 10px;
-}
-.usecase-category-img {
-    margin: 14px 0 0 0;
 }
 .main-right-column {
     font-size: 18px;
@@ -336,7 +343,7 @@ a:visited {
     margin-left: 10px;
 }
 .footer-contacts {
-    width: 200px;
+    width: 220px;
     position: relative;
     margin-left: 145px;
 }
@@ -352,7 +359,7 @@ a:visited {
 .octoberweb {
     width: 150px;
     position:relative;
-    left: 115px;
+    left: 95px;
 }
 .octoberweb:before {
     content:'';

@@ -5,6 +5,9 @@
     <title>Ангары</title>
     <link rel="stylesheet" href="static/css/reset.css">
     <link rel="stylesheet" href="static/css/style.css">
+    <script type="text/javascript" src="static/js/jquery-1.9.0.min.js"></script>
+    <script type="text/javascript" src="static/js/jquery.bxslider.min.js"></script>
+    <script type="text/javascript" src="static/js/script.js"></script>
 </head>
 <body>
     <!-- header -->
@@ -40,19 +43,46 @@
         <section class="column main-left-column">
             <!-- slider -->
             <div class="slider">
-                <div class="slider-control slider-control-left"></div>
-                <div class="slider-control slider-control-right"></div>
-                <ul>
+                <ul id="index-slider">
                     <li>
                         <div class="slider-item-box">
                             <img src="media/images/slider-hangar.png" alt="">
                             <div class="slider-item-text">
                                 <h4>Арочная конструкция</h4>
-                                <a href="">"Ангар"</a>
+                                <a href="">«Ангар»</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="slider-item-box">
+                            <img src="media/images/slider-mansard.png" alt="">
+                            <div class="slider-item-text">
+                                <h4>Арочная конструкция</h4>
+                                <a href="">«Мансарда»</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="slider-item-box">
+                            <img src="media/images/slider-roof.png" alt="">
+                            <div class="slider-item-text">
+                                <h4>Арочная конструкция</h4>
+                                <a href="">«Кровля»</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="slider-item-box">
+                            <img src="media/images/slider-outbuilding.png" alt="">
+                            <div class="slider-item-text">
+                                <h4>Арочная конструкция</h4>
+                                <a href="">«Пристройка»</a>
                             </div>
                         </div>
                     </li>
                 </ul>
+                <div id="index-slider-left"></div>
+                <div id="index-slider-right"></div>
             </div>
             <!-- end of slider -->
 
@@ -69,69 +99,75 @@
                     <div class="usecases-header">
                         <div class="usecases-header-inner">
                             <img class="usecase-category-img" src="media/images/usecase-category-image-1.png" alt="">
+                            <div class="usecases-header-text">
                             <p>Производственные
                             и складские
                             помещения</p> 
+                            </div>
                         </div>                        
                     </div>
                     <img class="usecase-image" src="media/images/usecases-image-1.png" alt="">
-                    <img class="usecase-image" src="media/images/usecases-image-1.png" alt="">
-                    <img class="usecase-image" src="media/images/usecases-image-1.png" alt="">
-                    <img class="usecase-image" src="media/images/usecases-image-1.png" alt="">
-                    <img class="usecase-image" src="media/images/usecases-image-1.png" alt="">
-                    <img class="usecase-image" src="media/images/usecases-image-1.png" alt="">
-                    <img class="usecase-image" src="media/images/usecases-image-1.png" alt="">
+                    <img class="usecase-image" src="media/images/usecases-image-2.png" alt="">
+                    <img class="usecase-image" src="media/images/usecases-image-3.png" alt="">
+                    <img class="usecase-image" src="media/images/usecases-image-4.png" alt="">
+                    <img class="usecase-image" src="media/images/usecases-image-5.png" alt="">
+                    <img class="usecase-image" src="media/images/usecases-image-6.png" alt="">
+                    <img class="usecase-image" src="media/images/usecases-image-7.png" alt="">
                     <img class="usecase-image" src="media/images/usecases-image-1.png" alt="">
                     <div class="usecases-header">
                         <div class="usecases-header-inner">
-                            <img class="usecase-category-img" src="media/images/usecase-category-image-1.png" alt="">
-                            <p>Производственные
-                            и складские
-                            помещения</p> 
+                            <img class="usecase-category-img" src="media/images/usecase-category-image-2.png" alt="">
+                            <p>Ремонтные
+                            мастерские<br>
+                            и СТО</p> 
+                        </div>                        
+                    </div>
+                    <img class="usecase-image" src="media/images/usecases-image-3.png" alt="">
+                    <img class="usecase-image" src="media/images/usecases-image-7.png" alt="">
+                    <img class="usecase-image" src="media/images/usecases-image-5.png" alt="">
+                    <img class="usecase-image" src="media/images/usecases-image-4.png" alt="">
+                    <div class="usecases-header">
+                        <div class="usecases-header-inner">
+                            <img class="usecase-category-img" src="media/images/usecase-category-image-3.png" alt="">
+                            <div class="usecases-header-text">
+                            <p>Гараж,
+                            автостоянка,
+                            автомойка</p>
+                            </div> 
                         </div>                        
                     </div>
                     <img class="usecase-image" src="media/images/usecases-image-1.png" alt="">
+                    <img class="usecase-image" src="media/images/usecases-image-3.png" alt="">
+                    <img class="usecase-image" src="media/images/usecases-image-6.png" alt="">
                     <img class="usecase-image" src="media/images/usecases-image-1.png" alt="">
-                    <img class="usecase-image" src="media/images/usecases-image-1.png" alt="">
+                    <img class="usecase-image" src="media/images/usecases-image-4.png" alt="">
+                    <img class="usecase-image" src="media/images/usecases-image-7.png" alt="">
                     <img class="usecase-image" src="media/images/usecases-image-1.png" alt="">
                     <div class="usecases-header">
                         <div class="usecases-header-inner">
-                            <img class="usecase-category-img" src="media/images/usecase-category-image-1.png" alt="">
-                            <p>Производственные
-                            и складские
-                            помещения</p> 
+                            <img class="usecase-category-img" src="media/images/usecase-category-image-4.png" alt="">
+                            <div class="usecases-header-text">
+                            <p>Спортивный
+                            комплекс</p>
+                            </div> 
                         </div>                        
                     </div>
-                    <img class="usecase-image" src="media/images/usecases-image-1.png" alt="">
-                    <img class="usecase-image" src="media/images/usecases-image-1.png" alt="">
-                    <img class="usecase-image" src="media/images/usecases-image-1.png" alt="">
-                    <img class="usecase-image" src="media/images/usecases-image-1.png" alt="">
-                    <img class="usecase-image" src="media/images/usecases-image-1.png" alt="">
-                    <img class="usecase-image" src="media/images/usecases-image-1.png" alt="">
-                    <img class="usecase-image" src="media/images/usecases-image-1.png" alt="">
+                    <img class="usecase-image" src="media/images/usecases-image-7.png" alt="">
+                    <img class="usecase-image" src="media/images/usecases-image-6.png" alt="">
+                    <img class="usecase-image" src="media/images/usecases-image-5.png" alt="">
                     <div class="usecases-header">
                         <div class="usecases-header-inner">
-                            <img class="usecase-category-img" src="media/images/usecase-category-image-1.png" alt="">
-                            <p>Производственные
-                            и складские
-                            помещения</p> 
+                            <img class="usecase-category-img" src="media/images/usecase-category-image-5.png" alt="">
+                            <div class="usecases-header-text">
+                                <p>Сельское 
+                                хозяйство</p>
+                            </div>       
                         </div>                        
                     </div>
+                    <img class="usecase-image" src="media/images/usecases-image-3.png" alt="">
+                    <img class="usecase-image" src="media/images/usecases-image-2.png" alt="">
                     <img class="usecase-image" src="media/images/usecases-image-1.png" alt="">
-                    <img class="usecase-image" src="media/images/usecases-image-1.png" alt="">
-                    <img class="usecase-image" src="media/images/usecases-image-1.png" alt="">
-                    <div class="usecases-header">
-                        <div class="usecases-header-inner">
-                            <img class="usecase-category-img" src="media/images/usecase-category-image-1.png" alt="">
-                            <p>Производственные
-                            и складские
-                            помещения</p>       
-                        </div>                        
-                    </div>
-                    <img class="usecase-image" src="media/images/usecases-image-1.png" alt="">
-                    <img class="usecase-image" src="media/images/usecases-image-1.png" alt="">
-                    <img class="usecase-image" src="media/images/usecases-image-1.png" alt="">
-                    <img class="usecase-image" src="media/images/usecases-image-1.png" alt="">
+                    <img class="usecase-image" src="media/images/usecases-image-4.png" alt="">
                 </div>
             </div>
         </section>
