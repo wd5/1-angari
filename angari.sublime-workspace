@@ -4,270 +4,175 @@
 		"selected_items":
 		[
 			[
-				"ba",
-				"background"
+				"tech",
+				"tech-left-column"
 			],
 			[
-				"inline",
-				"inline-block"
+				"te",
+				"text-decoration"
+			],
+			[
+				"foo",
+				"footer-contacts"
 			],
 			[
 				"di",
 				"display"
 			],
 			[
-				"use",
-				"usecases-header"
+				"back",
+				"background"
 			],
 			[
-				"in",
+				"cur",
+				"cursor"
+			],
+			[
+				"sli",
+				"slider-control"
+			],
+			[
+				"s",
+				"slider-item-text"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"he",
+				"header-phone"
+			],
+			[
+				"inline",
 				"inline-block"
 			],
 			[
-				"re",
-				"review-form"
+				"border-",
+				"border-radius"
 			],
 			[
-				"object_list_",
-				"object_list_without_first"
+				"margin-",
+				"margin-right"
 			],
 			[
-				"old",
-				"oldHeight"
+				"cate",
+				"categories"
 			],
 			[
-				"new",
-				"newHeight"
+				"cure",
+				"current_weight"
 			],
 			[
-				"open",
-				"openedReview"
+				"curren",
+				"current_amount"
 			],
 			[
-				"docto",
-				"doctorsLink"
+				"products_by_",
+				"products_by_name"
 			],
 			[
-				"d",
-				"doctors_link"
+				"p",
+				"product"
 			],
 			[
-				"pati",
-				"patientsLink"
+				"pa",
+				"payment_method"
 			],
 			[
-				"patie",
-				"patientsCarousel"
+				"render",
+				"render_404"
 			],
 			[
-				"doc",
-				"doctorsCarousel"
+				"pr",
+				"products_tags"
 			],
 			[
-				"do",
-				"doctorsCarousel"
+				"se",
+				"secondname"
 			],
 			[
-				"cu",
-				"currentMap"
-			],
-			[
-				"Pati",
-				"PatientsSchoolForm"
-			],
-			[
-				"Pa",
-				"PatientQForm"
-			],
-			[
-				"moda",
-				"modal_blob"
-			],
-			[
-				"size",
-				"font-size"
-			],
-			[
-				"coo",
-				"coords"
-			],
-			[
-				"cle",
-				"cleaned_data"
-			],
-			[
-				"revie",
-				"reviewer_type"
-			],
-			[
-				"L",
-				"LabAdmin"
-			],
-			[
-				"Cli",
-				"ClinicAdmin"
-			],
-			[
-				"City",
-				"CityAdminForm"
-			],
-			[
-				"Review",
-				"ReviewFormView"
-			],
-			[
-				"pare",
-				"parentWindow"
-			],
-			[
-				"rev",
-				"reviewerType"
-			],
-			[
-				"pro",
-				"processing"
-			],
-			[
-				"cli",
-				"clinic_list"
-			],
-			[
-				"all",
-				"all_clinics"
-			],
-			[
-				"ob",
-				"object_list"
-			],
-			[
-				"remove",
-				"removeClass"
-			],
-			[
-				"add",
-				"addClass"
-			],
-			[
-				"curre",
-				"currentMap"
-			],
-			[
-				"scro",
-				"scrollBarWidth"
-			],
-			[
-				"remo",
-				"removeBlocked"
-			],
-			[
-				"rem",
-				"removeBlocked"
-			],
-			[
-				"ad",
-				"addBlocked"
-			],
-			[
-				"back",
-				"background-color"
-			],
-			[
-				"publication",
-				"publication"
-			],
-			[
-				"Pub",
-				"PublicationListView"
-			],
-			[
-				"fu",
-				"function"
-			],
-			[
-				"dru",
-				"Drugstore"
-			],
-			[
-				"PartnersFormD",
-				"PartnersFormDrugstores"
-			],
-			[
-				"P",
-				"PartnersClinicsFormView"
-			],
-			[
-				"succe",
-				"success_url"
-			],
-			[
-				"formset",
-				"formset_factory"
-			],
-			[
-				"T",
-				"TemplateView"
-			],
-			[
-				"tem",
-				"template_name"
-			],
-			[
-				"revi",
-				"reviewer_type"
+				"sele",
+				"selected_bill_address_id"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "angari.sublime-project",
-			"settings":
-			{
-				"buffer_size": 68,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "markup/index.html",
 			"settings":
 			{
-				"buffer_size": 10508,
-				"line_ending": "Unix"
+				"buffer_size": 12559,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!doctype html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>Ангары</title>\n    <link rel=\"stylesheet\" href=\"static/css/reset.css\">\n    <link rel=\"stylesheet\" href=\"static/css/style.css\">\n    <script type=\"text/javascript\" src=\"static/js/jquery-1.9.0.min.js\"></script>\n    <script type=\"text/javascript\" src=\"static/js/jquery.bxslider.min.js\"></script>\n    <script type=\"text/javascript\" src=\"static/js/script.js\"></script>\n</head>\n<body>\n    <!-- header -->\n    <header class=\"header\">\n        <div class=\"header-inner\">\n            <figure class=\"header-logo-box\">\n                <a href=\"\"><img src=\"static/images/header-logo.png\"></a>\n            </figure>\n            <figure class=\"header-main-nav-box\">\n                <div class=\"header-main-nav-caption\">Арочные конструкции</div>\n                <ul class=\"header-nav\">\n                    <li><a href=\"\">Ангар</a></li>\n                    <li><a href=\"\">Мансарда</a></li>\n                    <li><a href=\"\">Кровля</a></li>\n                    <li><a href=\"\">Пристройка</a></li>\n                </ul>\n            </figure>\n            <figure class=\"header-contacts-box\">\n                <div class=\"header-phone\"><span class=\"phone-code\">(3022)</span> 71-77-71</div><div class=\"clear\"></div>\n                <ul class=\"header-nav\">\n                    <li><a href=\"\">Описание технологии</a></li>\n                    <li><a href=\"\">Контакты</a></li>\n                </ul>\n                <a href=\"\" class=\"calculate-button\">Рассчитать стоимость</a>\n            </figure>\n        </div>\n    </header>\n    <!-- end of header -->\n\n    <!-- main -->\n    <section class=\"main\">\n        <div class=\"description\">\n            <section class=\"column tech-left-column\">\n                <ul class=\"tech-nav\">\n                    <li></li>\n                    <li></li>\n                    <li></\n                </ul>\n            </section>\n            <section class=\"column tech-right-column\">\n            </section>\n        </div>\n        <div class=\"assembly\">\n            <section class=\"column tech-left-column\">\n            </section>\n            <section class=\"column tech-right-column\">\n            </section>\n        </div>\n        <div class=\"tech-stats\">\n            <section class=\"column tech-left-column\">\n            </section>\n            <section class=\"column tech-right-column\">\n            </section>\n        </div>\n        <div class=\"insulation\">\n            <section class=\"column tech-left-column\">\n            </section>\n            <section class=\"column tech-right-column\">\n            </section>\n        </div>\n        <div class=\"basement\">\n            <section class=\"column tech-left-column\">\n            </section>\n            <section class=\"column tech-right-column\">\n            </section>\n        </div>\n        <div class=\"windows-and-gates\">\n            <section class=\"column tech-left-column\">\n            </section>\n            <section class=\"column tech-right-column\">\n            </section>\n        </div>\n    </section>\n    <!-- end of main -->\n\n    <!-- footer -->\n    <footer class=\"footer\">\n        <div class=\"footer-inner\">\n            <p class=\"copyright\">\n                © 2011-2012\n                Сфера+\n            </p>\n\n            <p class=\"footer-contacts\">\n                г. Чита, ул. Ленина, 25, офис 325\n                телефон +7 (3022) 71-77-71\n            </p>\n\n            <p class=\"calculate-button\">\n                <a href=\"\" >Рассчитать стоимость</a>\n            </p>\n\n            <p class=\"octoberweb\">\n                Разработка сайта\n                <a href=\"\">OctoberWeb</a>\n            </p>\n        </div>\n    </footer>\n    <!-- end of footer -->\n</body>\n</html>   ",
+			"file": "markup/technology.html",
+			"file_size": 3848,
+			"file_write_time": 130040209886250655,
+			"settings":
+			{
+				"buffer_size": 3710,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nEmmet:\n-----\n\n  Thank you for installing Emmet -- a toolkit that can greatly improve your workflow. Note that this plugin automatically downloads and installs PyV8 binary (see status bar message). \n  \n  ******************************\n  Please restart editor \n  to finish installation process \n  after PyV8 was downloaded.\n  ******************************\n  \n  Tab key handler\n  ==========================\n  \n  By default, Emmet allows you to expand abbreviations with Tab key in HTML, XML, HAML and CSS/SASS/LESS/Stylus documents. As a side effect, you can’t use some of your ST2 snippets.\n  \n  Please read https://github.com/sergeche/emmet-sublime#tab-key-handler about how Tab handler works and how to tweak its behavior to match your needs.\n  \n  Enter key\n  ==========================\n  \n  In HTML and XML documents, Emmet overrides Enter key to insert formatted line breaks between opening and closing tags. In some cases it will break character input (for example, in Japanese language).\n  \n  To disable Enter key handler, simply add the following option in your user's Preferences file:\n  \n  \"disable_formatted_linebreak\": true\n  \n  Actions shortcuts\n  ==========================\n  \n  Emmet has a number of actions with keyboard shortcuts that may override ones you're using commonly (for example, Ctrl-E or Ctrl-Down). Please read the project main page to get list of available actions and keyboard shortcuts and how to disable them:\n  https://github.com/sergeche/emmet-sublime\n  \n  Documentation and examples:\n  http://docs.emmet.io\n  \n  ------------------------------\n  Follow me on Twitter: @emmetio\n  ------------------------------\n  \n",
+			"settings":
+			{
+				"buffer_size": 1697,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"scratch": true
 			}
 		},
 		{
 			"file": "markup/static/css/style.css",
 			"settings":
 			{
-				"buffer_size": 3829,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": ".gitignore",
-			"settings":
-			{
-				"buffer_size": 40,
-				"line_ending": "Unix"
+				"buffer_size": 7444,
+				"line_ending": "Windows"
 			}
 		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 201.0,
+		"height": 60.0,
 		"selected_items":
 		[
 			[
-				"Package Control:i",
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ist",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Cont",
 				"Package Control: Install Package"
 			]
 		],
-		"width": 449.0
+		"width": 386.0
 	},
 	"console":
 	{
-		"height": 139.0
+		"height": 125.0
 	},
 	"distraction_free":
 	{
@@ -280,109 +185,138 @@
 	},
 	"file_history":
 	[
-		"/home/grigl/Works/angari/markup/media/css/style.css",
-		"/home/grigl/Works/streptatest/apps/reviews/models.py",
-		"/home/grigl/Works/streptatest/apps/messages/models.py",
-		"/home/grigl/Works/streptatest/apps/messages/views.py",
-		"/home/grigl/Works/streptatest/apps/publications/templates/article.html",
-		"/home/grigl/Works/streptatest/apps/publications/templates/article_list.html",
-		"/home/grigl/Works/streptatest/apps/publications/templates/news_item.html",
-		"/home/grigl/Works/streptatest/apps/publications/templates/publication.html",
-		"/home/grigl/Works/streptatest/apps/publications/templates/publication_list.html",
-		"/home/grigl/Works/streptatest/apps/publications/models.py",
-		"/home/grigl/Works/streptatest/apps/reviews/templates/review_list.html",
-		"/home/grigl/Works/streptatest/apps/messages/templates/_new_patients_q_form.html",
-		"/home/grigl/Works/streptatest/apps/messages/templates/_order_form.html",
-		"/home/grigl/Works/streptatest/.gitignore",
-		"/home/grigl/Works/streptatest/apps/views.py",
-		"/home/grigl/Works/streptatest/apps/messages/templates/partners.html",
-		"/home/grigl/Works/streptatest/apps/messages/templates/_new_patients_school_form.html",
-		"/home/grigl/Works/streptatest/media/js/script.js",
-		"/home/grigl/Works/streptatest/media/css/style.css",
-		"/home/grigl/Works/streptatest/templates/_new_subscribe_form.html",
-		"/home/grigl/Works/streptatest/apps/messages/templates/_drugstores_map.html",
-		"/home/grigl/Works/streptatest/apps/messages/templates/_patients_map.html",
-		"/home/grigl/Works/streptatest/templates/base.html",
-		"/home/grigl/Works/streptatest/templates/_header.html",
-		"/home/grigl/Works/streptatest/apps/reviews/templates/review_index.html",
-		"/home/grigl/Works/streptatest/templates/_footer.html",
-		"/home/grigl/Works/streptatest/templates/_footer_modals.html",
-		"/home/grigl/Works/streptatest/apps/reviews/views.py",
-		"/home/grigl/Works/streptatest/templates/_contacts_map.html",
-		"/home/grigl/Works/streptatest/templates/shared/clinics_modal.html",
-		"/home/grigl/Works/streptatest/apps/messages/templates/patients.html",
-		"/home/grigl/Works/streptatest/fixtures/places.yaml",
-		"/home/grigl/Works/streptatest/apps/reviews/templates/_new_review_form.html",
-		"/home/grigl/Works/streptatest/templates/pages/instructions.html",
-		"/home/grigl/Works/streptatest/media/js/jquery.fullscreen-min.js",
-		"/home/grigl/Works/streptatest/apps/utils/widgets.py",
-		"/home/grigl/Works/streptatest/apps/messages/admin.py",
-		"/home/grigl/Works/streptatest/fixtures/settings.yaml",
-		"/home/grigl/Works/streptatest/apps/pages/models.py",
-		"/home/grigl/Works/streptatest/apps/places/models.py",
-		"/home/grigl/Works/streptatest/apps/messages/templates/models.py",
-		"/home/grigl/Works/streptatest/apps/urls.py",
-		"/home/grigl/Works/streptatest/apps/reviews/migrations/0001_initial.py",
-		"/home/grigl/Works/streptatest/apps/siteblocks/context_processors.py",
-		"/home/grigl/Works/streptatest/config/production.py",
-		"/home/grigl/Works/streptatest/config/development.py",
-		"/home/grigl/.virtualenvs/streptatest/lib/python2.7/site-packages/django/forms/util.py",
-		"/home/grigl/Works/streptatest/apps/places/admin.py",
-		"/home/grigl/Works/streptatest/fixtures/publications.yaml",
-		"/home/grigl/Works/streptatest/urls.py",
-		"/home/grigl/Works/streptatest/fixtures/pages.yaml",
-		"/home/grigl/Works/streptatest/apps/siteblocks/admin.py",
-		"/home/grigl/Works/streptatest/apps/pages/admin.py",
-		"/home/grigl/Works/streptatest/apps/reviews/templates/_render_review_form.html",
-		"/home/grigl/Works/streptatest/templates/pages/default.html",
-		"/home/grigl/Works/streptatest/settings.py",
-		"/home/grigl/Works/streptatest/templates/index.html",
-		"/home/grigl/Works/streptatest/fixtures/capabilities.yaml",
-		"/home/grigl/Works/streptatest/config/base.py",
-		"/home/grigl/Works/streptatest/apps/capabilities/models.py",
-		"/home/grigl/Works/streptatest/static/css/style.css",
-		"/home/grigl/Works/streptatest/apps/capabilities/templates/capability_list.html",
-		"/home/grigl/Works/streptatest/fixtures/reviews.yaml",
-		"/home/grigl/Works/streptatest/apps/reviews/templates/_review_items.html",
-		"/home/grigl/Works/streptatest/apps/reviews/templates/_more_reviews",
-		"/home/grigl/Works/streptatest/Imaging-1.1.7/setup.py",
-		"/home/grigl/Works/streptatest/streptatest.sublime-workspace",
-		"/home/grigl/Works/streptatest/apps/messages/templates/order.html",
-		"/home/grigl/Works/streptatest/vrstk/buy.html",
-		"/home/grigl/Works/streptatest/apps/utils/context_processors.py",
-		"/home/grigl/Works/streptatest/vrstk/reviews_modal.html",
-		"/home/grigl/Works/streptatest/vrstk/patients.html",
-		"/home/grigl/Works/streptatest/templates/shared/buy_box_aside.html",
-		"/home/grigl/Works/streptatest/templates/_header_menu.html",
-		"/home/grigl/Works/streptatest/apps/publications/templates/news_list.html",
-		"/home/grigl/Works/streptatest/apps/siteblocks/templatetags/siteblocks_extras.py",
-		"/home/grigl/Works/streptatest/apps/publications/views.py",
-		"/home/grigl/Works/streptatest/templates/pages/partners.html",
-		"/home/grigl/Works/streptatest/apps/utils/custom_views.py",
-		"/home/grigl/Works/streptatest/vrstk/reviews_list.html",
-		"/home/grigl/Works/streptatest/vrstk/reviews.html",
-		"/home/grigl/Works/streptatest/apps/pages/views.py",
-		"/home/grigl/Works/streptatest/apps/products/models.py",
-		"/home/gleb/works/streptatest/fixtures/products.yaml",
-		"/home/gleb/works/streptatest/vrstk/reviews_modal.html",
-		"/home/gleb/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
-		"/home/gleb/works/streptatest/apps/reviews/templates/review_list.html",
-		"/home/gleb/works/streptatest/apps/reviews/templates/review_index.html",
-		"/home/gleb/works/streptatest/templates/index.html",
-		"/home/gleb/works/streptatest/templates/_header_menu.html",
-		"/home/gleb/works/streptatest/apps/siteblocks/templatetags/siteblocks_extras.py",
-		"/home/gleb/works/streptatest/vrstk/reviews_list.html",
-		"/home/gleb/works/streptatest/fixtures/site_menu.yaml",
-		"/home/gleb/works/streptatest/templates/_header.html",
-		"/home/gleb/works/streptatest/fixtures/settings.yaml",
-		"/usr/share/applications/sublime.desktop",
-		"/usr/share/applications/defaults.list",
-		"/home/gleb/.bashrc",
-		"/home/gleb/works/streptatest/requirements.txt"
+		"/D/codeworks/octoberweb/angari/markup/static/css/reset.css",
+		"/D/codeworks/octoberweb/angari/.gitignore",
+		"/D/codeworks/octoberweb/angari/markup/media/css/reset.css",
+		"/D/codeworks/octoberweb/angari/markup/media/css/style.css",
+		"/D/codeworks/octoberweb/angari/markup/.gitignore",
+		"/D/codeworks/octoberweb/streptatest/templates/index.html",
+		"/C/Users/grigl_000/Dropbox/2Gleb/Верстка/Примеры верстки/РУС_2/media/css/style.css",
+		"/D/codeworks/whitescape/knigipodarki/app/models/calculator/zones_and_weight.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/products/index.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/checkout/_delivery.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/gateway/robokassa/show.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/checkout/_confirm.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/models/app_configuration.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/home/_banners.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/checkout/_summary.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/orders/show.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/shared/_products.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/products/show.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/shared/_tabs.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/errors/404.html",
+		"/D/codeworks/whitescape/knigipodarki/app/views/checkout/_cart.html",
+		"/D/codeworks/whitescape/knigipodarki/app/views/checkout/_checkout_breadcrumbs.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/users_controller.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/products_controller.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/orders_controller_decorator.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/models/product_decorator.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/products/_product_features.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/users/show.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/addresses_controller.rb",
+		"/D/codeworks/whitescape/knigipodarki/config/routes.rb",
+		"/D/codeworks/whitescape/knigipodarki/public/404.html",
+		"/D/codeworks/whitescape/knigipodarki/app/views/shared/_cart_items.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/db/migrate/20121124114804_add_is_sale_item_to_line_item.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/models/order_decorator.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/orders/show.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/public/javascripts/js/func.js",
+		"/D/codeworks/whitescape/knigipodarki/app/views/order_mailer/confirm.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/checkout_controller_decorator.rb",
+		"/D/codeworks/whitescape/knigipodarki/db/migrate/20121122205633_add_payment_method_name_to_order.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/models/taxon_decorator.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/taxons/_form.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/admin/taxons_controller.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/addresses/_address_form.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/taxons_controller.rb",
+		"/D/codeworks/whitescape/knigipodarki/public/stylesheets/sass/ie.scss",
+		"/E/Torrentloads/Adventure Time (season 3) [HD]/S03E07a - From Bad to Worse.ass",
+		"/E/Torrentloads/Adventure Time (season 3) [HD]/S03E08b - Jake vs. Me-Mow.ass",
+		"/E/Torrentloads/Adventure Time (season 3) [HD]/S03E06b - The Creeps.ass",
+		"/D/codeworks/whitescape/knigipodarki/db/migrate/20121122212048_add_payment_method_name_to_order.rb",
+		"/D/codeworks/whitescape/knigipodarki/db/migrate/20121122211954_remove_payment_method_name_from_products.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/pages/index.html",
+		"/D/codeworks/whitescape/knigipodarki/app/views/shared/_admin_head.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/lib/spree_site.rb",
+		"/D/codeworks/whitescape/knigipodarki/db/schema.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/products/_form.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/shared/_product_tabs.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/shared/_product_sub_menu.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/configurations/index.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/taxons/selected.html.erb",
+		"/D/codeworks/whitescape/hiazma/app/views/admin/articles/_form_edit.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/shared/_configuration_menu.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/lib/spree_yandex_market_hooks.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/checkout/_payment.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/checkout_controller.rb",
+		"/D/codeworks/whitescape/knigipodarki/README.md",
+		"/D/codeworks/whitescape/knigipodarki/app/views/checkout/_address.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/gateway/robokassa_controller_decorator.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/shared/_navigation.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/admin/products_controller.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/products/index.html",
+		"/D/codeworks/whitescape/knigipodarki/app/views/home/index.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/home_controller.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/models/tag.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/checkout/edit.html.erb",
+		"/C/Users/grigl_000/Documents/production.log",
+		"/D/codeworks/whitescape/knigipodarki/public/stylesheets/style.css",
+		"/D/codeworks/whitescape/knigipodarki/lib/tasks/sync_orders.rake",
+		"/D/codeworks/whitescape/knigipodarki/xml/store.xml",
+		"/D/codeworks/whitescape/knigipodarki/lib/tasks/sync_goods.rake",
+		"/D/codeworks/whitescape/knigipodarki/app/helpers/application_helper.rb",
+		"/D/codeworks/whitescape/knigipodarki/db/migrate/20121113151444_add_is_published_to_products.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/layouts/spree_application.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/mailers/order_mailer.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/user_registrations_mailer/confirm.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/user_mailer/reset_password.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/shared/_cart_quantity.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/shared/_cart_panel.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/orders/reload_cart.js.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/mailers/user_mailer.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/orders_controller.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/mailers/user_registrations_mailer.rb",
+		"/D/codeworks/whitescape/knigipodarki/config/locales/ru.yml",
+		"/D/codeworks/whitescape/knigipodarki/app/views/shared/_login.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/checkout/registration.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/layouts/_site_footer.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/user_passwords/new.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/user_passwords/edit.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/user_passwords_controller.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/user_registrations/show_registration_errors.js.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/user_registrations/new.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/user_passwords/show_restore_password_errors.js.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/user_passwords/show_restore_message.js.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/shared/_restore_password_form.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/models/address_decorator.rb",
+		"/D/codeworks/whitescape/knigipodarki/config/locales/devise.ru.yml",
+		"/D/codeworks/whitescape/knigipodarki/app/views/user_sessions/show_login_errors.js.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/controllers/user_registrations_controller.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/users/edit.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/addresses/edit.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/layouts/_site_header.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/config/environments/production.rb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/general_settings/edit.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/general_settings/show.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/addresses/new.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/shared/_cart.html.erb",
+		"/C/Users/grigl_000/Desktop/New Text Document.html",
+		"/D/codeworks/whitescape/knigipodarki/app/views/taxons/show.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/static_content/show.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/app/views/admin/pages/_form.html.erb",
+		"/C/Users/grigl_000/.ssh/id_rsa.pub",
+		"/C/Users/grigl_000/.ssh/hgdev_rsa.pub",
+		"/C/Users/grigl_000/.ssh/github_rsa.pub",
+		"/D/codeworks/whitescape/knigipodarki/_markup/about.html",
+		"/D/codeworks/whitescape/knigipodarki/app/views/user_mailer/reset_password_instructions.text.erb",
+		"/D/codeworks/whitescape/knigipodarki/db/migrate/20121017221244_add_some_fields_to_static_pages.rb",
+		"/D/codeworks/whitescape/knigipodarki/_markup/letters/letter_purchase.html",
+		"/D/codeworks/whitescape/knigipodarki/app/views/shared/_products_sorting.html.erb",
+		"/D/codeworks/whitescape/knigipodarki/db/migrate/20121017083444_add_material_to_product.rb"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -397,66 +331,48 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"right",
-			"slider",
-			"up_l",
-			"up_l\nup_l",
-			"up_l",
-			"inpt_tel_school_form",
-			"phone",
-			"bxs",
-			"subs",
-			"bx-",
-			"bx",
-			"contact_map_modal",
-			"fancy",
-			"contact_map_modal",
-			"conta",
-			"patients",
-			"modal_blob",
-			"contact_map_modal",
-			"fanc",
-			"contmod_",
-			"conta",
-			"blob_modal_close",
-			"rev",
-			"instr",
-			"review_form_modal",
-			"form-",
-			"form_li",
-			"instr",
-			"прод",
-			"phone_tel",
-			"Admin",
-			"Review",
-			"More",
-			"ReviewForm",
-			"DrugstoresMap",
-			"more",
-			"header_contacts",
-			"tel",
-			"vk",
-			"VK",
-			"friends_modal",
-			"Orde",
-			"iimages",
-			"blob_modal_close",
-			"city_list",
-			"shade",
-			"OrderForm",
-			"patientsM",
-			"Ins",
-			"conta",
-			".modal",
-			"оста",
-			"modal",
-			"					\n",
-			"review",
-			"апт",
-			"апте",
-			"купи",
-			"купить",
-			"от"
+			"footer-inner",
+			"inline-blo",
+			"weight",
+			"0",
+			"number_to_currency",
+			";\n",
+			"bill",
+			"disable",
+			"count_on_hand",
+			"count",
+			"end",
+			"products",
+			"payment",
+			"all_products",
+			"render",
+			"не",
+			" %>",
+			"static_pa",
+			"%>\n",
+			"products",
+			"tags",
+			">\n",
+			"\")\n",
+			"address",
+			"taxons",
+			"registration",
+			"header",
+			"by_popularity",
+			"popular",
+			")\n",
+			"%>\">",
+			"\").",
+			"controls",
+			"span",
+			".plus",
+			".minus",
+			"minus",
+			"debug params",
+			"%></",
+			"current_page",
+			"%>\n",
+			"recommended"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -465,58 +381,61 @@
 		"replace_history":
 		[
 		],
-		"reverse": true,
+		"reverse": false,
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
-		"wrap": true
+		"wrap": false
 	},
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "angari.sublime-project",
+					"file": "markup/index.html",
 					"settings":
 					{
-						"buffer_size": 68,
+						"buffer_size": 12559,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1728,
+								1728
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 495.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "markup/index.html",
+					"file": "markup/technology.html",
 					"settings":
 					{
-						"buffer_size": 10508,
+						"buffer_size": 3710,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								10294,
-								10294
+								1862,
+								1862
 							]
 						],
 						"settings":
@@ -526,25 +445,57 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3294.0,
+						"translation.y": 420.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "markup/static/css/style.css",
 					"settings":
 					{
-						"buffer_size": 3829,
+						"buffer_size": 1697,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3718,
-								3718
+								1697,
+								1697
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "markup/static/css/style.css",
+					"settings":
+					{
+						"buffer_size": 7444,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6248,
+								6248
 							]
 						],
 						"settings":
@@ -554,33 +505,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3294.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": ".gitignore",
-					"settings":
-					{
-						"buffer_size": 40,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								40,
-								40
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 4185.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -590,11 +515,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 36.0
+		"height": 0.0
 	},
 	"input":
 	{
-		"height": 33.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -605,6 +530,12 @@
 				0,
 				1,
 				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
 			]
 		],
 		"cols":
@@ -615,17 +546,14 @@
 		"rows":
 		[
 			0.0,
+			0.556288676181,
 			1.0
 		]
 	},
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 120.0
-	},
-	"output.unsaved_changes":
-	{
-		"height": 112.0
+		"height": 96.0
 	},
 	"replace":
 	{
@@ -637,130 +565,6 @@
 		"height": 0.0,
 		"selected_items":
 		[
-			[
-				"mjs",
-				"streptatest/media/js/script.js"
-			],
-			[
-				"mcs",
-				"streptatest/media/css/style.css"
-			],
-			[
-				"tb",
-				"streptatest/templates/base.html"
-			],
-			[
-				"t_f",
-				"templates/_footer.html"
-			],
-			[
-				"u",
-				"urls.py"
-			],
-			[
-				"ti",
-				"templates/index.html"
-			],
-			[
-				"ss",
-				"static/css/style.css"
-			],
-			[
-				"temh",
-				"templates/_header.html"
-			],
-			[
-				"amm",
-				"apps/messages/models.py"
-			],
-			[
-				"apm",
-				"apps/places/models.py"
-			],
-			[
-				"msc",
-				"media/js/script.js"
-			],
-			[
-				"ms",
-				"media/css/style.css"
-			],
-			[
-				"vrstr",
-				"vrstk/reviews_list.html"
-			],
-			[
-				"artr",
-				"apps/reviews/templates/review_list.html"
-			],
-			[
-				"tei",
-				"templates/index.html"
-			],
-			[
-				"vrr",
-				"vrstk/reviews.html"
-			],
-			[
-				"apv",
-				"apps/publications/views.py"
-			],
-			[
-				"ur",
-				"urls.py"
-			],
-			[
-				"arv",
-				"apps/reviews/views.py"
-			],
-			[
-				"p/m",
-				"apps/products/models.py"
-			],
-			[
-				"m/v",
-				"apps/messages/views.py"
-			],
-			[
-				"revl",
-				"apps/reviews/templates/review_list.html"
-			],
-			[
-				"revi",
-				"apps/reviews/templates/review_index.html"
-			],
-			[
-				"index.h",
-				"templates/index.html"
-			],
-			[
-				"review",
-				"apps/reviews/templates/review_index.html"
-			],
-			[
-				"style",
-				"media/css/style.css"
-			],
-			[
-				"view",
-				"apps/reviews/views.py"
-			],
-			[
-				"_hea",
-				"templates/_header_menu.html"
-			],
-			[
-				"_he",
-				"templates/_header.html"
-			],
-			[
-				"site",
-				"fixtures/site_menu.yaml"
-			],
-			[
-				"set",
-				"fixtures/settings.yaml"
-			]
 		],
 		"width": 0.0
 	},
@@ -776,6 +580,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 331.0,
+	"side_bar_width": 355.0,
 	"status_bar_visible": true
 }
