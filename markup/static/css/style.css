@@ -335,6 +335,18 @@ a:visited {
     vertical-align: top;
     width: 175px;
 }
+.calc-form-header {
+    position: relative;
+} 
+.calc-form-header:after {
+    content: '';
+    position: absolute;
+    background: url(../images/calc-form-header-arrow.png);
+    width: 22px;
+    height: 18px;
+    top: 5px;
+    right: -20px;
+} 
 /* end of main*/
 
 /* footer */
