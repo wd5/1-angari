@@ -1,5 +1,3 @@
-
-
 var IndexSlider = function(){
     $('#index-slider').bxSlider({
             pager: false,
@@ -8,10 +6,6 @@ var IndexSlider = function(){
             nextText: '',
             prevText: ''
         });
-}
-
-var IndexUsecasesCategories = function(){
-    
 }
 
 $(function(){
