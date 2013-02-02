@@ -4,8 +4,48 @@
 		"selected_items":
 		[
 			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"bore",
+				"border-bottom"
+			],
+			[
+				"ca",
+				"calc-caption"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"wi",
+				"width-chooser"
+			],
+			[
+				"width",
+				"width-chooser"
+			],
+			[
 				"tech",
-				"tech-left-column"
+				"tech-right-column"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font-",
+				"font-size"
 			],
 			[
 				"te",
@@ -18,10 +58,6 @@
 			[
 				"di",
 				"display"
-			],
-			[
-				"back",
-				"background"
 			],
 			[
 				"cur",
@@ -58,10 +94,6 @@
 			[
 				"border-",
 				"border-radius"
-			],
-			[
-				"margin-",
-				"margin-right"
 			],
 			[
 				"cate",
@@ -111,36 +143,31 @@
 			"file": "markup/index.html",
 			"settings":
 			{
-				"buffer_size": 12559,
+				"buffer_size": 12578,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "<!doctype html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>Ангары</title>\n    <link rel=\"stylesheet\" href=\"static/css/reset.css\">\n    <link rel=\"stylesheet\" href=\"static/css/style.css\">\n    <script type=\"text/javascript\" src=\"static/js/jquery-1.9.0.min.js\"></script>\n    <script type=\"text/javascript\" src=\"static/js/jquery.bxslider.min.js\"></script>\n    <script type=\"text/javascript\" src=\"static/js/script.js\"></script>\n</head>\n<body>\n    <!-- header -->\n    <header class=\"header\">\n        <div class=\"header-inner\">\n            <figure class=\"header-logo-box\">\n                <a href=\"\"><img src=\"static/images/header-logo.png\"></a>\n            </figure>\n            <figure class=\"header-main-nav-box\">\n                <div class=\"header-main-nav-caption\">Арочные конструкции</div>\n                <ul class=\"header-nav\">\n                    <li><a href=\"\">Ангар</a></li>\n                    <li><a href=\"\">Мансарда</a></li>\n                    <li><a href=\"\">Кровля</a></li>\n                    <li><a href=\"\">Пристройка</a></li>\n                </ul>\n            </figure>\n            <figure class=\"header-contacts-box\">\n                <div class=\"header-phone\"><span class=\"phone-code\">(3022)</span> 71-77-71</div><div class=\"clear\"></div>\n                <ul class=\"header-nav\">\n                    <li><a href=\"\">Описание технологии</a></li>\n                    <li><a href=\"\">Контакты</a></li>\n                </ul>\n                <a href=\"\" class=\"calculate-button\">Рассчитать стоимость</a>\n            </figure>\n        </div>\n    </header>\n    <!-- end of header -->\n\n    <!-- main -->\n    <section class=\"main\">\n        <div class=\"description\">\n            <section class=\"column tech-left-column\">\n                <ul class=\"tech-nav\">\n                    <li></li>\n                    <li></li>\n                    <li></\n                </ul>\n            </section>\n            <section class=\"column tech-right-column\">\n            </section>\n        </div>\n        <div class=\"assembly\">\n            <section class=\"column tech-left-column\">\n            </section>\n            <section class=\"column tech-right-column\">\n            </section>\n        </div>\n        <div class=\"tech-stats\">\n            <section class=\"column tech-left-column\">\n            </section>\n            <section class=\"column tech-right-column\">\n            </section>\n        </div>\n        <div class=\"insulation\">\n            <section class=\"column tech-left-column\">\n            </section>\n            <section class=\"column tech-right-column\">\n            </section>\n        </div>\n        <div class=\"basement\">\n            <section class=\"column tech-left-column\">\n            </section>\n            <section class=\"column tech-right-column\">\n            </section>\n        </div>\n        <div class=\"windows-and-gates\">\n            <section class=\"column tech-left-column\">\n            </section>\n            <section class=\"column tech-right-column\">\n            </section>\n        </div>\n    </section>\n    <!-- end of main -->\n\n    <!-- footer -->\n    <footer class=\"footer\">\n        <div class=\"footer-inner\">\n            <p class=\"copyright\">\n                © 2011-2012\n                Сфера+\n            </p>\n\n            <p class=\"footer-contacts\">\n                г. Чита, ул. Ленина, 25, офис 325\n                телефон +7 (3022) 71-77-71\n            </p>\n\n            <p class=\"calculate-button\">\n                <a href=\"\" >Рассчитать стоимость</a>\n            </p>\n\n            <p class=\"octoberweb\">\n                Разработка сайта\n                <a href=\"\">OctoberWeb</a>\n            </p>\n        </div>\n    </footer>\n    <!-- end of footer -->\n</body>\n</html>   ",
 			"file": "markup/technology.html",
-			"file_size": 3848,
-			"file_write_time": 130040209886250655,
 			"settings":
 			{
-				"buffer_size": 3710,
+				"buffer_size": 23033,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "Package Control Messages\n========================\n\nEmmet:\n-----\n\n  Thank you for installing Emmet -- a toolkit that can greatly improve your workflow. Note that this plugin automatically downloads and installs PyV8 binary (see status bar message). \n  \n  ******************************\n  Please restart editor \n  to finish installation process \n  after PyV8 was downloaded.\n  ******************************\n  \n  Tab key handler\n  ==========================\n  \n  By default, Emmet allows you to expand abbreviations with Tab key in HTML, XML, HAML and CSS/SASS/LESS/Stylus documents. As a side effect, you can’t use some of your ST2 snippets.\n  \n  Please read https://github.com/sergeche/emmet-sublime#tab-key-handler about how Tab handler works and how to tweak its behavior to match your needs.\n  \n  Enter key\n  ==========================\n  \n  In HTML and XML documents, Emmet overrides Enter key to insert formatted line breaks between opening and closing tags. In some cases it will break character input (for example, in Japanese language).\n  \n  To disable Enter key handler, simply add the following option in your user's Preferences file:\n  \n  \"disable_formatted_linebreak\": true\n  \n  Actions shortcuts\n  ==========================\n  \n  Emmet has a number of actions with keyboard shortcuts that may override ones you're using commonly (for example, Ctrl-E or Ctrl-Down). Please read the project main page to get list of available actions and keyboard shortcuts and how to disable them:\n  https://github.com/sergeche/emmet-sublime\n  \n  Documentation and examples:\n  http://docs.emmet.io\n  \n  ------------------------------\n  Follow me on Twitter: @emmetio\n  ------------------------------\n  \n",
+			"file": "markup/calculator.html",
 			"settings":
 			{
-				"buffer_size": 1697,
-				"line_ending": "Windows",
-				"name": "Package Control Messages",
-				"scratch": true
+				"buffer_size": 5977,
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "markup/static/css/style.css",
 			"settings":
 			{
-				"buffer_size": 7444,
+				"buffer_size": 14425,
 				"line_ending": "Windows"
 			}
 		}
@@ -148,7 +175,7 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 60.0,
+		"height": 335.0,
 		"selected_items":
 		[
 			[
@@ -185,6 +212,12 @@
 	},
 	"file_history":
 	[
+		"/D/codeworks/octoberweb/angari/markup/calculator.html",
+		"/D/codeworks/octoberweb/angari/markup/object.html",
+		"/C/Users/grigl/AppData/Roaming/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/grigl/AppData/Roaming/Sublime Text 2/Packages/User/Emmet.sublime-settings",
+		"/C/Users/grigl/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/grigl/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
 		"/D/codeworks/octoberweb/angari/markup/static/css/reset.css",
 		"/D/codeworks/octoberweb/angari/.gitignore",
 		"/D/codeworks/octoberweb/angari/markup/media/css/reset.css",
@@ -306,13 +339,7 @@
 		"/D/codeworks/whitescape/knigipodarki/app/views/admin/pages/_form.html.erb",
 		"/C/Users/grigl_000/.ssh/id_rsa.pub",
 		"/C/Users/grigl_000/.ssh/hgdev_rsa.pub",
-		"/C/Users/grigl_000/.ssh/github_rsa.pub",
-		"/D/codeworks/whitescape/knigipodarki/_markup/about.html",
-		"/D/codeworks/whitescape/knigipodarki/app/views/user_mailer/reset_password_instructions.text.erb",
-		"/D/codeworks/whitescape/knigipodarki/db/migrate/20121017221244_add_some_fields_to_static_pages.rb",
-		"/D/codeworks/whitescape/knigipodarki/_markup/letters/letter_purchase.html",
-		"/D/codeworks/whitescape/knigipodarki/app/views/shared/_products_sorting.html.erb",
-		"/D/codeworks/whitescape/knigipodarki/db/migrate/20121017083444_add_material_to_product.rb"
+		"/C/Users/grigl_000/.ssh/github_rsa.pub"
 	],
 	"find":
 	{
@@ -331,6 +358,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"usecases-category",
+			"wrap\n",
+			"wrap",
 			"footer-inner",
 			"inline-blo",
 			"weight",
@@ -390,7 +420,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -398,15 +428,15 @@
 					"file": "markup/index.html",
 					"settings":
 					{
-						"buffer_size": 12559,
+						"buffer_size": 12578,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1728,
-								1728
+								896,
+								896
 							]
 						],
 						"settings":
@@ -417,7 +447,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 495.0,
+						"translation.y": 361.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -427,15 +457,15 @@
 					"file": "markup/technology.html",
 					"settings":
 					{
-						"buffer_size": 3710,
+						"buffer_size": 23033,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1862,
-								1862
+								0,
+								0
 							]
 						],
 						"settings":
@@ -445,33 +475,35 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 420.0,
+						"translation.y": 2580.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
+					"file": "markup/calculator.html",
 					"settings":
 					{
-						"buffer_size": 1697,
+						"buffer_size": 5977,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1697,
-								1697
+								1822,
+								1834
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"word_wrap": true
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 675.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -487,15 +519,15 @@
 					"file": "markup/static/css/style.css",
 					"settings":
 					{
-						"buffer_size": 7444,
+						"buffer_size": 14425,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6248,
-								6248
+								12557,
+								12557
 							]
 						],
 						"settings":
@@ -505,7 +537,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4185.0,
+						"translation.y": 9548.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -546,7 +578,7 @@
 		"rows":
 		[
 			0.0,
-			0.556288676181,
+			0.506394073535,
 			1.0
 		]
 	},
@@ -580,6 +612,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 355.0,
+	"side_bar_width": 307.0,
 	"status_bar_visible": true
 }
